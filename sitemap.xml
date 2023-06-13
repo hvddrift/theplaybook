@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/my-first-post/</loc>
-    <lastmod>2023-06-13T22:49:35+10:00</lastmod>
-  </url><url>
     <loc>https://hvddrift.github.io/theplaybook/</loc>
-    <lastmod>2023-06-13T22:49:35+10:00</lastmod>
+    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
+  </url><url>
+    <loc>https://hvddrift.github.io/theplaybook/posts/my-second-post/</loc>
+    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
   </url><url>
     <loc>https://hvddrift.github.io/theplaybook/posts/</loc>
+    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
+  </url><url>
+    <loc>https://hvddrift.github.io/theplaybook/posts/my-first-post/</loc>
     <lastmod>2023-06-13T22:49:35+10:00</lastmod>
   </url><url>
     <loc>https://hvddrift.github.io/theplaybook/categories/</loc>
