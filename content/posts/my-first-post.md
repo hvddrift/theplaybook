@@ -7,3 +7,6 @@ date: 2023-06-13T22:49:35+10:00
 
 How does it change in Github?
 
+Does this change both 
+
+yes it does
