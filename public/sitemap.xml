@@ -1,138 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/3-pillars/index.html</loc>
+    <loc>https://hvddrift.github.io/theplaybook/pre-install/index.html</loc>
   </url>
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/_inex/index.html</loc>
-    <lastmod>2023-06-16T12:54:25+10:00</lastmod>
+    <loc>https://hvddrift.github.io/theplaybook/install/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/post_install/index.html</loc>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/index.html</loc>
-    <lastmod>2023-06-16T12:54:25+10:00</lastmod>
   </url>
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/index.html</loc>
-    <lastmod>2023-06-16T12:54:25+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/azuma/index.html</loc>
-    <lastmod>2023-06-16T12:52:16+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/altar/index.html</loc>
-    <lastmod>2023-06-16T12:52:11+10:00</lastmod>
+    <loc>https://hvddrift.github.io/theplaybook/3-pillars/index.html</loc>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/akan/index.html</loc>
-    <lastmod>2023-06-16T12:52:04+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/air/index.html</loc>
-    <lastmod>2023-06-16T12:52:01+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bromo/index.html</loc>
-    <lastmod>2023-06-16T12:51:47+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bennett/index.html</loc>
-    <lastmod>2023-06-16T12:51:39+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bely/index.html</loc>
-    <lastmod>2023-06-16T12:51:32+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/baula/index.html</loc>
-    <lastmod>2023-06-16T12:51:23+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/baluran/index.html</loc>
-    <lastmod>2023-06-16T12:51:14+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/cusin/index.html</loc>
-    <lastmod>2023-06-16T12:50:58+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/colo/index.html</loc>
-    <lastmod>2023-06-16T12:50:55+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/cima/index.html</loc>
-    <lastmod>2023-06-16T12:50:51+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/capital/index.html</loc>
-    <lastmod>2023-06-16T12:50:41+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/drum/index.html</loc>
-    <lastmod>2023-06-16T12:50:32+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/dempo/index.html</loc>
-    <lastmod>2023-06-16T12:50:27+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/danau/index.html</loc>
-    <lastmod>2023-06-16T12:50:20+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/enep/index.html</loc>
-    <lastmod>2023-06-16T12:50:10+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/elbrus/index.html</loc>
-    <lastmod>2023-06-16T12:50:05+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/ebeko/index.html</loc>
-    <lastmod>2023-06-16T12:49:54+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/6-pitt/foessa/index.html</loc>
-    <lastmod>2023-06-16T12:49:26+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/6-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:49:11+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:49:06+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:49:02+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:48:58+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:48:49+10:00</lastmod>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/index.html</loc>
-    <lastmod>2023-06-16T12:48:43+10:00</lastmod>
   </url>
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/my-second-post/index.html</loc>
-    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/index.html</loc>
   </url>
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/index.html</loc>
-    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
+    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/index.html</loc>
   </url>
   <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/my-first-post/index.html</loc>
-    <lastmod>2023-06-13T22:49:35+10:00</lastmod>
+    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/6-pitt/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/air/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/altar/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/azuma/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/baluran/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/baula/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bely/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bennett/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/2-pitt/bromo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/capital/index.html</loc>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/cima/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/colo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/3-pitt/cusin/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/danau/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/dempo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/documents/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/drum/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/ebeko/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/elbrus/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/5-pitt/enep/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/collection/6-pitt/foessa/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/partition_construction/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/service/index.html</loc>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/tags/index.html</loc>

@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>PITT cooking Australia Technical on My New Hugo Site</title>
     <link>https://hvddrift.github.io/theplaybook/index.html</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in PITT cooking Australia Technical on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2023 12:54:25 +1000</lastBuildDate><atom:link href="https://hvddrift.github.io/theplaybook/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hvddrift.github.io/theplaybook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pre Install</title>
+      <link>https://hvddrift.github.io/theplaybook/pre-install/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/pre-install/index.html</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Install</title>
+      <link>https://hvddrift.github.io/theplaybook/install/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/install/index.html</guid>
+      <description>Hello</description>
+    </item>
+    <item>
+      <title>Post Install</title>
+      <link>https://hvddrift.github.io/theplaybook/post_install/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/post_install/index.html</guid>
+      <description>Now what</description>
+    </item>
+    <item>
+      <title>Collection</title>
+      <link>https://hvddrift.github.io/theplaybook/collection/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/collection/index.html</guid>
+      <description></description>
+    </item>
     <item>
       <title>3 Pillars</title>
       <link>https://hvddrift.github.io/theplaybook/3-pillars/index.html</link>
@@ -15,17 +42,24 @@
       <description>&amp;ldquo;Consumers don&amp;rsquo;t buy products, they buy solutions&amp;rdquo;</description>
     </item>
     <item>
-      <title>Collections</title>
-      <link>https://hvddrift.github.io/theplaybook/collection/index.html</link>
-      <pubDate>Fri, 16 Jun 2023 12:54:25 +1000</pubDate>
-      <guid>https://hvddrift.github.io/theplaybook/collection/index.html</guid>
+      <title>Documents</title>
+      <link>https://hvddrift.github.io/theplaybook/documents/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/documents/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Posts</title>
-      <link>https://hvddrift.github.io/theplaybook/posts/index.html</link>
-      <pubDate>Tue, 13 Jun 2023 23:33:06 +1000</pubDate>
-      <guid>https://hvddrift.github.io/theplaybook/posts/index.html</guid>
+      <title>Partition Construction</title>
+      <link>https://hvddrift.github.io/theplaybook/partition_construction/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/partition_construction/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service</title>
+      <link>https://hvddrift.github.io/theplaybook/service/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/service/index.html</guid>
       <description></description>
     </item>
   </channel>
