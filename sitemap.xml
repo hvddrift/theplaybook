@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hvddrift.github.io/theplaybook/pre-install/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/install/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/post_install/index.html</loc>
+  </url>
+  <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/index.html</loc>
   </url>
   <url>
@@ -8,22 +17,6 @@
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/akan/index.html</loc>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/index.html</loc>
-    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/my-second-post/index.html</loc>
-    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/index.html</loc>
-    <lastmod>2023-06-13T23:33:06+10:00</lastmod>
-  </url>
-  <url>
-    <loc>https://hvddrift.github.io/theplaybook/posts/my-first-post/index.html</loc>
-    <lastmod>2023-06-13T22:49:35+10:00</lastmod>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/1-pitt/index.html</loc>
@@ -89,6 +82,9 @@
     <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/dempo/index.html</loc>
   </url>
   <url>
+    <loc>https://hvddrift.github.io/theplaybook/documents/index.html</loc>
+  </url>
+  <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/4-pitt/drum/index.html</loc>
   </url>
   <url>
@@ -102,6 +98,15 @@
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/collection/6-pitt/foessa/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/partition_construction/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/index.html</loc>
+  </url>
+  <url>
+    <loc>https://hvddrift.github.io/theplaybook/service/index.html</loc>
   </url>
   <url>
     <loc>https://hvddrift.github.io/theplaybook/tags/index.html</loc>
