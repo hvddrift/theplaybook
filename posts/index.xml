@@ -29,7 +29,9 @@ First ordered list item Another item ⋅⋅* Unordered sub-list.</description>
       <link>https://hvddrift.github.io/theplaybook/posts/my-first-post/index.html</link>
       <pubDate>Tue, 13 Jun 2023 22:49:35 +1000</pubDate>
       <guid>https://hvddrift.github.io/theplaybook/posts/my-first-post/index.html</guid>
-      <description>This is a Test page How does it change in Github?</description>
+      <description>This is a Test page How does it change in Github?
+Does this change both
+yes it does</description>
     </item>
   </channel>
 </rss>

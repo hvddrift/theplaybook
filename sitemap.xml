@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hvddrift.github.io/theplaybook/3-pillars/index.html</loc>
+  </url>
+  <url>
     <loc>https://hvddrift.github.io/theplaybook/index.html</loc>
     <lastmod>2023-06-13T23:33:06+10:00</lastmod>
   </url>

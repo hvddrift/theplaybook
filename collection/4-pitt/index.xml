@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 Pitt on My New Hugo Site</title>
+    <link>https://hvddrift.github.io/theplaybook/collection/4-pitt/index.html</link>
+    <description>Recent content in 4 Pitt on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 12:49:02 +1000</lastBuildDate><atom:link href="https://hvddrift.github.io/theplaybook/collection/4-pitt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Danau</title>
+      <link>https://hvddrift.github.io/theplaybook/collection/4-pitt/danau/index.html</link>
+      <pubDate>Fri, 16 Jun 2023 12:50:20 +1000</pubDate>
+      <guid>https://hvddrift.github.io/theplaybook/collection/4-pitt/danau/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
